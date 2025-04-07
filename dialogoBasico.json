@@ -2,10 +2,12 @@
   "c2array": true,
   "size": [5, 1, 2],
   "data": [
-    [["Hola viajero, bienvenido a nuestra aldea.", "Anciano"]],
-    [["Necesitamos tu ayuda para recuperar la gema sagrada.", "Anciano"]],
-    [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardián"]],
-    [["Pero cuidado, está protegida por una criatura legendaria.", "Guardián"]],
-    [["Confío en ti, toma esta espada para tu viaje.", "Anciano"]]
+    [["Has llegado más lejos de lo que jamás imaginé... Felicitaciones, guerrero.", "Jefe"]],
+    [["No estoy aquí por tus felicitaciones. Estoy aquí para ponerle fin a esto.", "Jugador"]],
+    [["Y lo harás. Pero antes, quiero decirte que no todos los que caminan hasta el final están preparados para lo que hay más allá. Tú, Has mostrado fuerza y voluntad.", "Jefe"]],
+    [["He perdido demasiado para rendirme ahora. Si este es el final, lo enfrentaré de pie.", "Jugador"]],
+    [["Has vencido al monstruo. Ahora... asegúrate de no convertirte en uno.", "Jefe"]]
+    [["Entonces termina con las palabras. Estoy listo.", "Jugador"]]
+    [["Muy bien… el camino se abre para ti. Pero recuerda: llegar al final es solo el principio de algo mayor.", "Jefe"]]   
   ]
 }
